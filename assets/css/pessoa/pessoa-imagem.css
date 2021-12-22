@@ -1,8 +1,6 @@
 .pessoa__imagem {
-  background-position: center;
+  background: no-repeat center / cover;
   border-radius: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
   height: 300px;
   margin: 0 auto;
   width: 300px;
